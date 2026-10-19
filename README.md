@@ -19,7 +19,7 @@ Send WhatsApp text messages from the terminal with Python.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/whatsapp.git
+git clone https://github.com/FalconLynx/WhatsApp-Bulk-Message-Sender.git
 ```
 
 Navigate to the project directory:
